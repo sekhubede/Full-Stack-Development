@@ -16,6 +16,8 @@ class Person {
 const person = new Person("John Doe", 30);
 person.greet();
 
+const person2 = { ...person, fullname: "Joe Smith" };
+
 // Inheritance
 class Student extends Person {
   constructor(name, age, grade) {

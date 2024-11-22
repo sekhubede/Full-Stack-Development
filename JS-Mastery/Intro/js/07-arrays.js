@@ -20,6 +20,9 @@ numbers[4] = 15;
 console.log(numbers);
 
 // Adding New Array Elements
+const names = ["John", "Jane", "Bob", "Alice", "Mike"];
+const names2 = [...names, "Jack", "Jill"];
+console.log(names2);
 numbers.push(16);
 numbers.push(17);
 numbers.push(18);
