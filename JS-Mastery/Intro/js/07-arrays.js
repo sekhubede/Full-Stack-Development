@@ -12,6 +12,13 @@ console.log(numbers[3]); // 4
 console.log(numbers[4]); // 5
 
 // Modifying Array Elements
+let people = ["John", "Jane", "Bob", "Alice", "Mike"];
+names.map((person) => {
+  return name + "1";
+});
+names.forEach((person) => {
+  console.log(person);
+});
 numbers[0] = 11;
 numbers[1] = 12;
 numbers[2] = 13;
