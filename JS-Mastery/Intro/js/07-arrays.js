@@ -52,3 +52,13 @@ console.log(b); // 2
 console.log(c); // 3
 console.log(d); // 4
 console.log(e); // 5
+
+// Filtering Array Elements
+const evenNumbers = numbers.filter((number) => number % 2 === 0);
+console.log(evenNumbers);
+let oddNumbers = numbers.filter((number) => number % 2 !== 0);
+console.log(oddNumbers);
+
+// Sorting Array Elements
+const sortedNumbers = numbers.sort((a, b) => a - b);
+console.log(sortedNumbers);
