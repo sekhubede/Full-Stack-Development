@@ -1,0 +1,35 @@
+html
+{
+    font-size: 22px;
+}
+
+body
+{
+    font-family: poppins;    
+    background-color: rgb(160, 209, 228);
+    color: rgb(13, 13, 14);
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+h1
+{
+    text-decoration: dotted underline;
+}
+
+header,
+footer  
+{
+    text-align: center;
+}
+
+header
+{
+    margin-bottom: 2rem;
+}
+
+footer 
+{
+    margin-top: 2rem;
+    font-style: italic;
+}
