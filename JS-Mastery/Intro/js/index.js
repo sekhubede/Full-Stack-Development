@@ -1,0 +1,15 @@
+// import "./01-variables.js";
+import "./02-datatypes.js";
+import "./03-operators.js";
+import "./04-conditionals.js";
+import "./05-loops.js";
+import "./06-functions.js";
+// import "./07-arrays.js";
+// import "./08-objects.js";
+// import "./09-strings.js";
+// import "./10-classes.js";
+// import "./11-modules.js";
+// import "./12-async.js";
+// import "./13-regex.js";
+// import "./14-dom.js";
+// import "./15-events.js";
